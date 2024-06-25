@@ -1,0 +1,4 @@
+Welcome to the Game
+Your task is to guess the number I have in mind. 
+The number changes at each level in every new game, and the difficulty increases with each level. 
+For each wrong answer, I will deduct cunning points from you.Your task is to score as many points as possible.
